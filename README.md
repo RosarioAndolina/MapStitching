@@ -1,0 +1,2 @@
+# MapStitching
+Elemental maps stitching
