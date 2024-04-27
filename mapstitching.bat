@@ -1,0 +1,1 @@
+"C:\Program Files\Python\Python38\python.exe" mapstitching.py
